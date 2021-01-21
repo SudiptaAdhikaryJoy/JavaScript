@@ -8,4 +8,7 @@ var newround=Math.round(newnumber);
 console.log(newround);
 //celi--upper
 var newnewround=Math.ceil(newnumber);
-//floor
+console.log(newnewround);
+//floor--lower
+var newlowerround=Math.floor(newnumber);
+console.log(newlowerround);
