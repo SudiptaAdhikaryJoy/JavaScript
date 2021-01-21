@@ -5,6 +5,6 @@ name.toUpperCase();
 console.log(promise.toLowerCase());
 console.log(name.toUpperCase());
 //Split
-console.log(promise.split('i'));
+console.log(promise.split(' '));
 //Index
 console.log(promise.indexOf('be'));
