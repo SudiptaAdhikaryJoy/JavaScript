@@ -1,4 +1,4 @@
-var num=5
+var num=100
 switch(num){
     case 1000:
         console.log("I am 1000");
