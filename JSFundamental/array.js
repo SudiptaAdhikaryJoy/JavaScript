@@ -5,4 +5,9 @@ var sonaliAge=friendsAge[2];
 friendsAge[1]=21;
 //See Position
 var position = friendsAge.indexOf(45);
-console.log(position);
+//Push for adding items
+friendsAge.push(15);
+
+
+//Output
+console.log(friendsAge.length);
