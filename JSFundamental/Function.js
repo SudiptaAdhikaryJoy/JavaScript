@@ -4,7 +4,7 @@ function sayLoveYou(){
 }
 sayLoveYou();
 var date = 14;
-var place = "Restaurent";
+var place = "Restaurant";
 sayLoveYou();
 var hangoutPlace="TSC";
 sayLoveYou();
