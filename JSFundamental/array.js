@@ -37,3 +37,5 @@ console.log(teaLine);
 var part=teaLine.slice(1,4);
 console.log(part);
 console.log(teaLine);
+
+return 0;
